@@ -65,4 +65,14 @@
 128.199.114.189:9090
 128.199.120.45:9090
 103.70.79.3:8080
-185.235.16.12:80
+185.235.16.12:80Bangladesh:undefined@103.138.145.34:80
+Singapore:undefined@178.128.26.91:3128
+Germany:undefined@89.58.57.45:80
+United%20States:undefined@205.237.104.203:3128
+Germany:undefined@89.58.55.33:80
+South%20Korea:undefined@211.230.49.122:3128
+The%20Netherlands:undefined@4.245.123.244:80
+Australia:undefined@4.195.16.140:80
+Japan:undefined@133.32.22.100:8080
+India:undefined@103.87.170.53:32650
+
